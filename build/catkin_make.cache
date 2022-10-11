@@ -1,0 +1,2 @@
+control_turtle:helloworld:myparams:myservice:mytopic
+-DCATKIN_DEVEL_PREFIX=/home/maxyang/ros/demo01_ws/devel -DCMAKE_INSTALL_PREFIX=/home/maxyang/ros/demo01_ws/install -G Unix Makefiles

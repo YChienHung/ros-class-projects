@@ -1,0 +1,8 @@
+prefix=/home/maxyang/ros/demo01_ws/install
+
+Name: myservice
+Description: Description of myservice
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/maxyang/ros/demo01_ws/install
+
+Name: myparams
+Description: Description of myparams
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
