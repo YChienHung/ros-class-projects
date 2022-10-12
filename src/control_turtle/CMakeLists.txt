@@ -208,3 +208,6 @@ include_directories(
 
 add_executable(control src/main.cpp)
 target_link_libraries(control ${catkin_LIBRARIES})
+
+add_executable(sub_turtle_info src/GetTurtlePose.cpp)
+target_link_libraries(sub_turtle_info ${catkin_LIBRARIES})
